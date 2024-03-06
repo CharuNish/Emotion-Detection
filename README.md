@@ -29,5 +29,5 @@ The model is built using an architecture that combines Convolutional Neural Netw
 The model was trained over 100 epochs, utilizing a dataset split into training and validation sets to ensure robustness and generalizability. During training, various techniques such as data augmentation and dropout were employed to prevent overfitting.
 
 ## Results
-After training, the model achieved an accuracy of 80.75%, demonstrating its effectiveness in detecting facial keypoints with high precision. 
+After training, the model achieved an accuracy of 85.98%, demonstrating its effectiveness in detecting facial keypoints with high precision. 
 
